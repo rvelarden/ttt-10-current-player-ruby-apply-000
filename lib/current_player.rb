@@ -13,6 +13,6 @@ end
  
    
 def current_player(board)
-  current_player.even? 
+  turn_count.even? 
 turn_count(board)  
 end
