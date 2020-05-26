@@ -14,7 +14,6 @@ end
    
 def current_player(board)
   
-7 % 3  
 current_player.even? 
 turn_count(board)  
 end
